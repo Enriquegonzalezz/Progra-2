@@ -9,7 +9,7 @@ def funcionenvolvente():
         return haisa #imrprimimos
     return funcioninterior() #retornamos la funcion secundaria
 
-funcionenvolvente() #llamamos a la funcion original
+print(funcionenvolvente()) #llamamos a la funcion original
     
 
     
